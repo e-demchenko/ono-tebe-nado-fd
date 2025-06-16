@@ -1,1 +1,0 @@
-https://github.com/e-demchenko/ono-tebe-nado-fd
