@@ -23,13 +23,15 @@
   font-size: 18px;
 }
 
-.header__link {
+.header__link,
+.footer__menu-link {
   text-decoration: underline;
   text-underline-offset: 4px;
   text-decoration-thickness: 1px;
 }
 
-.header__link_active {
+.header__link_active,
+.footer__link_active {
   text-decoration: none;
 }
 
@@ -288,17 +290,6 @@
   width: 265px;
 }
 
-.footer-address-link,
-.footer__menu-link {
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-thickness: 1px;
-}
-
-.footer__link_active {
-  text-decoration: none;
-}
-
 .footer__menu {
   margin-right: 25px;
 }
@@ -312,7 +303,6 @@
 .footer__social-link {
   display: block;
   width: 48px;
-  height: 48px;
 }
 
 .footer-links-navigation {
